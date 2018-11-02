@@ -7,7 +7,7 @@
 以下に記載。
 ```shell
 .
-└── doc/    
+└── docs/    
     └── folders.md
 ```
 
